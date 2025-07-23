@@ -48,3 +48,7 @@ SQL Operations	DDL (CREATE), DML (INSERT, SELECT), calculated columns
 Data Display	ttk.Treeview (for structured table view)
 Error Handling	try-except, messagebox for user feedback
 Local Deployment	Standalone Python application (.py script)
+output:
+![Image](https://github.com/user-attachments/assets/5ca958a4-dde7-46f6-b079-7f0eb74d51e3)
+![Image](https://github.com/user-attachments/assets/6c82c4c7-c987-4bd7-9fe0-5d1a62e979d5)
+![Image](https://github.com/user-attachments/assets/61b9e8bd-a6e9-461c-b074-6d35b5cd2434)
